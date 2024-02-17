@@ -14,3 +14,6 @@ Download: Clone or download the repository to your local machine.
 Build: Build the solution using Visual Studio or your preferred IDE.
 Run: Launch the application and connect your Oculus Quest device.
 Adjust Settings: Use the interface to adjust CPU, GPU, and texture settings as desired.
+
+License
+This project is licensed under the Apache-2.0 License
