@@ -11,7 +11,6 @@ To get started with the ADB UpperQuest Tool, follow these steps:
 
 Prerequisites: Ensure that your Oculus Quest device is connected via USB.
 Download: Clone or download the repository to your local machine.
-Build: Build the solution using Visual Studio or your preferred IDE.
 Run: Launch the application and connect your Oculus Quest device.
 Adjust Settings: Use the interface to adjust CPU, GPU, and texture settings as desired.
 
