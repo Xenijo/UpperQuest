@@ -17,3 +17,6 @@ Adjust Settings: Use the interface to adjust CPU, GPU, and texture settings as d
 
 License
 This project is licensed under the Apache-2.0 License
+
+
+Discord: https://discord.gg/hDQScCR4Sw
