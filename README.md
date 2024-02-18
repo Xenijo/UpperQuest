@@ -18,4 +18,7 @@ License
 This project is licensed under the Apache-2.0 License
 
 
-Discord: https://discord.gg/hDQScCR4Sw
+Discord: https://discord.gg/hDQScCR4Sw!
+
+[Screenshot 2024-02-18 172910](https://github.com/Xenijo/UpperQuest/assets/80117820/d13edd84-97a2-43fa-a900-be9385ff8bdd)
+
